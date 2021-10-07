@@ -3,3 +3,4 @@
 env/*
 test.py
 config.json
+wslenv/
