@@ -5,3 +5,4 @@ test.py
 config.json
 wslenv/
 creds.py
+__pycache__/
